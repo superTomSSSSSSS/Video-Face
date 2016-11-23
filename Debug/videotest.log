@@ -1,0 +1,6 @@
+﻿  源.cpp
+  searchalgorithm.cpp
+  facechange.cpp
+c:\users\g-fighting\desktop\人脸运动识别论文\face-class-modify\videotest\facechange.cpp(105): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  正在生成代码...
+  videotest.vcxproj -> C:\Users\G-fighting\Desktop\人脸运动识别论文\face-class-modify\Debug\videotest.exe
